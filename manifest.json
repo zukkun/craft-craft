@@ -6,6 +6,11 @@
             "src": "craftcraft.ico",
             "type": "image/x-ico",
             "sizes": "32x32"
+        },
+        {
+            "src": "craftcraft-144x144.png",
+            "type": "image/png",
+            "sizes": "144x144"
         }
     ],   
     "start_url": "index.html",
