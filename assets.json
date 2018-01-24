@@ -1,0 +1,322 @@
+﻿
+[{
+    "type": "image",
+    "name": "back",
+    "src": "image/back.png"
+}, {
+    "type": "image",
+    "name": "title",
+    "src": "image/crcr.png"
+}, {
+    "type": "image",
+    "name": "tsubo",
+    "src": "image/tubo.png"
+}, {
+    "type": "image",
+    "name": "ki",
+    "src": "image/ki.png"
+}, {
+    "type": "image",
+    "name": "isi",
+    "src": "image/isi.png"
+}, {
+    "type": "image",
+    "name": "tetu",
+    "src": "image/tetu.png"
+}, {
+    "type": "image",
+    "name": "ito",
+    "src": "image/ito.png"
+}, {
+    "type": "image",
+    "name": "uran",
+    "src": "image/uran.png"
+}, {
+    "type": "image",
+    "name": "dou",
+    "src": "image/dou.png"
+}, {
+    "type": "image",
+    "name": "toisi",
+    "src": "image/toisi.png"
+}, {
+    "type": "image",
+    "name": "mizu",
+    "src": "image/mizu.png"
+}, {
+    "type": "image",
+    "name": "zisyaku",
+    "src": "image/zisyaku.png"
+}, {
+    "type": "image",
+    "name": "purasutikku",
+    "src": "image/purasutikku.png"
+}, {
+    "type": "image",
+    "name": "garasu",
+    "src": "image/garasu.png"
+}, {
+    "type": "image",
+    "name": "kawa",
+    "src": "image/kawa.png"
+}, {
+    "type": "image",
+    "name": "gomu",
+    "src": "image/gomu.png"
+}, {
+    "type": "image",
+    "name": "isihanma",
+    "src": "image/isihannma-.png"
+}, {
+    "type": "image",
+    "name": "rupe",
+    "src": "image/ru-pe.png"
+}, {
+    "type": "image",
+    "name": "isiono",
+    "src": "image/isiono.png"
+}, {
+    "type": "image",
+    "name": "kinoita",
+    "src": "image/kinoita.png"
+}, {
+    "type": "image",
+    "name": "tetuhanma",
+    "src": "image/tetuhannma-.png"
+}, {
+    "type": "image",
+    "name": "hiokosiki",
+    "src": "image/hiokosiki.png"
+}, {
+    "type": "image",
+    "name": "hataoriki",
+    "src": "image/hataoriki.png"
+}, {
+    "type": "image",
+    "name": "yaiba",
+    "src": "image/yaiba.png"
+}, {
+    "type": "image",
+    "name": "douban",
+    "src": "image/doubann.png"
+}, {
+    "type": "image",
+    "name": "doraiba",
+    "src": "image/doraiba-.png"
+}, {
+    "type": "image",
+    "name": "hono",
+    "src": "image/honoo.png"
+}, {
+    "type": "image",
+    "name": "nuno",
+    "src": "image/nuno.png"
+}, {
+    "type": "image",
+    "name": "hasami",
+    "src": "image/hasami.png"
+}, {
+    "type": "image",
+    "name": "dousen",
+    "src": "image/dousenn.png"
+}, {
+    "type": "image",
+    "name": "kiban",
+    "src": "image/kibann.png"
+}, {
+    "type": "image",
+    "name": "koiru",
+    "src": "image/koiru.png"
+}, {
+    "type": "image",
+    "name": "sumi",
+    "src": "image/sumi.png"
+}, {
+    "type": "image",
+    "name": "fan",
+    "src": "image/fann.png"
+}, {
+    "type": "image",
+    "name": "seiseisui",
+    "src": "image/seiseisui.png"
+}, {
+    "type": "image",
+    "name": "tabin",
+    "src": "image/ta-binn.png"
+}, {
+    "type": "image",
+    "name": "karyokuhatudenki",
+    "src": "image/karyokuhatudennki.png"
+}, {
+    "type": "image",
+    "name": "gensiro",
+    "src": "image/gennsiro.png"
+}, {
+    "type": "image",
+    "name": "hobabaiku",
+    "src": "image/hoba-baiku.png"
+}, {
+    "type": "image",
+    "name": "sa-ba-",
+    "src": "image/sa-ba-.png"
+}, {
+    "type": "image",
+    "name": "delisupurei",
+    "src": "image/delisupurei.png"
+}, {
+    "type": "image",
+    "name": "kawagutu",
+    "src": "image/kawagutu.png"
+}, {
+    "type": "image",
+    "name": "hata",
+    "src": "image/hata.png"
+}, {
+    "type": "image",
+    "name": "reizouko",
+    "src": "image/reizouko.png"
+}, {
+    "type": "image",
+    "name": "robottonobodeli",
+    "src": "image/robottonobodeli.png"
+}, {
+    "type": "image",
+    "name": "robotto",
+    "src": "image/robotto.png"
+}, {
+    "type": "image",
+    "name": "sennpuuki",
+    "src": "image/sennpuuki.png"
+}, {
+    "type": "image",
+    "name": "mo-ta",
+    "src": "image/mo-ta.png"
+}, {
+    "type": "image",
+    "name": "houtyou",
+    "src": "image/houtyou.png"
+}, {
+    "type": "image",
+    "name": "katana",
+    "src": "image/katana.png"
+}, {
+    "type": "image",
+    "name": "suma-tofonn",
+    "src": "image/suma-tofonn.png"
+}, {
+    "type": "image",
+    "name": "garake-",
+    "src": "image/garake-.png"
+}, {
+    "type": "image",
+    "name": "taiya",
+    "src": "image/taiya.png"
+}, {
+    "type": "image",
+    "name": "tessenn",
+    "src": "image/tessenn.png"
+}, {
+    "type": "image",
+    "name": "teppann",
+    "src": "image/teppann.png"
+}, {
+    "type": "image",
+    "name": "zitennsya",
+    "src": "image/zitennsya.png"
+}, {
+    "type": "image",
+    "name": "terebi",
+    "src": "image/terebi.png"
+}, {
+    "type": "image",
+    "name": "hi-ta",
+    "src": "image/hi-ta.png"
+}, {
+    "type": "image",
+    "name": "kamera",
+    "src": "image/kamera.png"
+}, {
+    "type": "image",
+    "name": "dennkyuu",
+    "src": "image/dennkyuu.png"
+}, {
+    "type": "image",
+    "name": "kaityuudenntou",
+    "src": "image/kaityuudenntou.png"
+}, {
+    "type": "image",
+    "name": "razio",
+    "src": "image/razio.png"
+}, {
+    "type": "image",
+    "name": "firuta-",
+    "src": "image/firuta-.png"
+}, {
+    "type": "image",
+    "name": "beddo",
+    "src": "image/beddo.png"
+}, {
+    "type": "image",
+    "name": "wata",
+    "src": "image/wata.png"
+}, {
+    "type": "image",
+    "name": "isu",
+    "src": "image/isu.png"
+}, {
+    "type": "image",
+    "name": "tukue",
+    "src": "image/tukue.png"
+}, {
+    "type": "image",
+    "name": "CPU",
+    "src": "image/CPU.png"
+}, {
+    "type": "image",
+    "name": "jari",
+    "src": "image/jari.png"
+}, {
+    "type": "image",
+    "name": "rennzu",
+    "src": "image/rennzu.png"
+}, {
+    "type": "image",
+    "name": "kagami",
+    "src": "image/kagami.png"
+}, {
+    "type": "image",
+    "name": "shobabaiku",
+    "src": "image/shobabaiku.png"
+}, {
+    "type": "image",
+    "name": "pasokonn",
+    "src": "image/pasokonn.png"
+}, {
+    "type": "image",
+    "name": "sakka-bo-ru",
+    "src": "image/sakka-bo-ru.png"
+}, {
+    "type": "image",
+    "name": "megane",
+    "src": "image/megane.png"
+}, {
+    "type": "image",
+    "name": "bideokamera",
+    "src": "image/bideokamera.png"
+}, {
+    "type": "image",
+    "name": "ryousiPC",
+    "src": "image/ryousiPC.png"
+}, {
+    "type": "image",
+    "name": "syokuhinnsannpuru",
+    "src": "image/syokuhinnsannpuru.png"
+}, {
+    "type": "sound",
+    "name": "recipeMusic",
+    "src": "musics/クラフト_完成.mp3"
+}, {
+    "type": "sound",
+    "name": "tuboMusic",
+    "src": "musics/button40.mp3"
+}]
