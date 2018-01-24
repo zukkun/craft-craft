@@ -1,0 +1,15 @@
+{
+    "short_name": "craft-craft",
+    "name": "CRAFT-CRAFT",
+    "icons": [
+        {
+            "src": "craftcraft.ico",
+            "type": "image/x-ico",
+            "sizes": "32x32"
+        }
+    ],   
+    "start_url": "index.html",
+    "background_color": "black",
+    "display": "standalone",
+    "theme_color": "black"
+}
